@@ -2,15 +2,15 @@
 how to use One Signal Push Notification from start to end on xcode using iOS Swift language
 
 some links for help -																												
-OneSignal Setup : 
+  1.OneSignal Setup : 
 https://documentation.onesignal.com/docs/ios-sdk-setup
-iOS Push Certificate : 
+  2.iOS Push Certificate : 
 https://documentation.onesignal.com/docs/generate-an-ios-push-certificate
-Notifications reference ? 
+  3.Notifications reference ? 
 https://documentation.onesignal.com/reference
-iOS Native SDK ? 
+  4.iOS Native SDK ? 
 https://documentation.onesignal.com/docs/ios-native-sdk#section--oshandlenotificationactionblock-
-Background Notifications : 
+  5.Background Notifications : 
 https://documentation.onesignal.com/docs/silent-notifications
-VoIP or Timing Notifications : 
+  6.VoIP or Timing Notifications : 
 https://documentation.onesignal.com/docs/voip-notifications
